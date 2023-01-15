@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+My Synapse Ticket 
+![Gourab](https://user-images.githubusercontent.com/83345253/212534047-5fa15659-50e5-40e7-a537-d546bc461a05.png)
+
+This app is aimed to be an integrated platform for live updates about Hospitals to be admitted or referred to 
+![image](https://user-images.githubusercontent.com/83345253/212534094-552af676-e9d5-44ad-b4b7-1d9d4edfb23b.png)
+A lot of work is left to be done 
 
 
 ## Available Scripts
