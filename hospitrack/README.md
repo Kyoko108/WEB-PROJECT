@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Gourab.png
+![Gourab](https://user-images.githubusercontent.com/83345253/212528902-b7b7c96f-2234-4ed8-b5ad-59dba2919506.png)
+
 
 ## Available Scripts
 
