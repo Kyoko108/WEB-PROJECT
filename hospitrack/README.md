@@ -1,4 +1,4 @@
-This app is created to perform as a integrated platform for all informations related to hospitals like Bed Availabilty , Doctor Check Up Timimgs , Ambulance Availibility  etc . 
+This app is created to perform as a integrated platform or a one stop solution for all informations related to hospitals like Bed Availabilty , Doctor Check Up Timimgs , Ambulance Availibility  etc . 
 
 ![image](https://user-images.githubusercontent.com/83345253/212533699-f12a01b9-6deb-4862-8ef8-fd25e4379742.png)
 This is the starting of the project 
